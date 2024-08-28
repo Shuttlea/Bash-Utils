@@ -1,0 +1,62 @@
+
+Zero Width Space:​
+
+
+Zero Width Joiner:‍
+
+Zero Width Non-Joiner:‍‌
+Variation Selector-16:️
+
+Variation Selector-15:︎
+
+Hangul Filler U+3164:ㅤ
+Hangul Jungseong Filler:ᅠ
+
+
+
+Right-to-Left Override:‮
+
+
+Left-to-Right Override: ‭
+Ideographic Space: 　
+
+Thin Space:  
+Hair Space:  
+Blank Braille Pattern: ⠀
+Tab Indent:
+	
+
+Invisible Separator: ⁣
+Em Space:  
+
+
+En Space:  
+
+Em Quad:  
+En Quad:  
+
+
+
+Three-Per-Em Space:  
+
+
+
+Four-Per-Em Space:  
+
+Six-Per-Em Space:  
+
+
+Figure Space:  
+Punctuation Space:  
+
+
+Left-To-Right Mark: ‎
+Right-To-Left Mark: ‏
+
+Narrow No-Break Space:  
+Word Joiner: ⁠
+Arabic Fathatan: ً
+
+
+
+

@@ -1,0 +1,13 @@
+
+here is first string
+
+
+second not empty string
+	 here is tab:	
+	 
+
+
+
+
+it was many new lines
+
